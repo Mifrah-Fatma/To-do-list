@@ -2,7 +2,7 @@
 
 # What is a ToDo List? Simple tool to organise everything
 
-"What is a ToDo List? Simple tool to organise everything 18")
+"What is a ToDo List? Simple tool to organise everything"
 
 What is a todo list and how can it help in business and daily life?
 
